@@ -19,5 +19,5 @@
 -     * I don't know ... A project someting like that I have never tried before 
 - 📫 How to reach me ...
       * Try these one : 
-        dursuncaglar[at]gmail[dot]com or connect me ![Linkedin](https://www.linkedin.com/in/caglardursun/ "Linkedin") directlly 
+        dursuncaglar[at]gmail[dot]com or connect me ![](https://www.linkedin.com/in/caglardursun/ "Linkedin") directlly 
 
