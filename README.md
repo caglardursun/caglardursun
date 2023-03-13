@@ -21,4 +21,5 @@
       * Try these one : 
         dursuncaglar[at]gmail[dot]com or connect me ![](https://www.linkedin.com/in/caglardursun/ "Linkedin") directlly 
 
-[![[Linkedin](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)]([https://www.linkedin.com/in/caglardursun/](https://www.linkedin.com/in/caglardursun/))](https://www.linkedin.com/in/caglardursun/)
+[![Linkedin](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/caglardursun/)
+
