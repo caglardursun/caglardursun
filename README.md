@@ -19,6 +19,6 @@
 -     * I don't know ... A project someting like that I have never tried before 
 - 📫 How to reach me ...      
 -     * dursuncaglar[at]gmail[dot]com 
--     * [![Linkedin](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/caglardursun/)
+-     * [Linkedin](https://www.linkedin.com/in/caglardursun/)
       
 
