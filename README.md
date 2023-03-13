@@ -6,10 +6,12 @@
 - 🌱 I’ve experienced on ...
 -     * Dotnet 
 -     * C# 
+-     * C++
+-     * JavaScript
 -     * MsSql, PostSql 
 -     * Redis, RabbitMQ
 -     * WPF, MVVM
--     * Image Processing        
+-     * Image & Video Processing        
 - 🌱 I’m currently learning ...
 -     * Rust Language 
 -     * Embeded Development 
