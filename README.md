@@ -8,8 +8,8 @@
       * C# 
       * MsSql, PostSql 
       * Redis, RabbitMQ
-      * WPF
-      * 
+      * WPF, MVVM
+      * Image Processing        
 - 🌱 I’m currently learning ...
 -     * Rust Language 
 -     * Embeded Development 
@@ -17,8 +17,9 @@
 -     * 3D Designing
 - 💞️ I’m looking to collaborate on ...
 -     * I don't know ... A project someting like that I have never tried before 
+
 - 📫 How to reach me ...      
 -     * dursuncaglar[at]gmail[dot]com 
--     * [Linkedin](https://www.linkedin.com/in/caglardursun/)
+-     * https://www.linkedin.com/in/caglardursun/
       
 
