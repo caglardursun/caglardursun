@@ -21,3 +21,4 @@
       * Try these one : 
         dursuncaglar[at]gmail[dot]com or connect me ![](https://www.linkedin.com/in/caglardursun/ "Linkedin") directlly 
 
+[![Linkedin]([https://www.linkedin.com/in/caglardursun/](https://www.linkedin.com/in/caglardursun/))](https://www.linkedin.com/in/caglardursun/)
