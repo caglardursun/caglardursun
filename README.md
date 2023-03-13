@@ -4,12 +4,12 @@
 - 👀 I’m interested in ... 
 -     * A new job offer can be a nice move 
 - 🌱 I’ve experienced on ...
-      * Dotnet 
-      * C# 
-      * MsSql, PostSql 
-      * Redis, RabbitMQ
-      * WPF, MVVM
-      * Image Processing        
+-     * Dotnet 
+-     * C# 
+-     * MsSql, PostSql 
+-     * Redis, RabbitMQ
+-     * WPF, MVVM
+-     * Image Processing        
 - 🌱 I’m currently learning ...
 -     * Rust Language 
 -     * Embeded Development 
