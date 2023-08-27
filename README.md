@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @caglardursun 
+- 👋 Hi, I’m @caglardursun
     I'm a senior software developer with a strong background in Mathematics and extensive experience in software development.
 
     Demonstrated expertise in a wide range of technologies, including Dotnet, Signalr, WPF, Mvvm, SQL, C++, C#, JavaScript, and Docker. Proven track record of successfully delivering innovative solutions and driving project success. Skilled in software architecture, and continuous integration and delivery. Adept at collaborating with cross-functional teams, identifying and solving complex problems, and adapting to fast-paced environments.
